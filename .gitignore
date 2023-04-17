@@ -1,0 +1,6 @@
+/data/*
+/env
+/mobilink/*
+/Report/*.pdf
+/.vscode
+/.git
