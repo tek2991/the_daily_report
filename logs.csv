@@ -389,3 +389,139 @@ date,report_id,report_name,status,log_date
 12/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,13/07/2023 17:42:52
 12/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,13/07/2023 17:42:53
 12/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,13/07/2023 17:42:55
+13/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,14/07/2023 17:17:23
+13/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,14/07/2023 17:17:24
+13/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,14/07/2023 17:17:25
+13/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,14/07/2023 17:17:25
+13/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,14/07/2023 17:17:27
+14/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,18/07/2023 17:28:40
+14/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,18/07/2023 17:28:41
+14/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,18/07/2023 17:28:42
+14/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,18/07/2023 17:28:43
+14/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,18/07/2023 17:28:45
+17/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,18/07/2023 17:31:00
+17/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,18/07/2023 17:31:00
+17/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,18/07/2023 17:31:01
+17/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,18/07/2023 17:31:02
+17/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,18/07/2023 17:31:04
+18/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,19/07/2023 17:32:54
+18/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,19/07/2023 17:33:05
+18/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,19/07/2023 17:33:06
+18/07/2023,23,Details of Post offices where both NSP 1 & 2 are down but ticket is not raised,success,19/07/2023 17:33:06
+18/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,19/07/2023 17:33:08
+19/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,20/07/2023 17:10:34
+19/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,20/07/2023 17:10:35
+19/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,20/07/2023 17:10:36
+19/07/2023,23,Details of Post offices where both NSP 1 & 2 are down but ticket is not raised,success,20/07/2023 17:10:37
+19/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,20/07/2023 17:10:39
+20/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,21/07/2023 17:44:18
+20/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,21/07/2023 17:44:18
+20/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,21/07/2023 17:44:19
+20/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,21/07/2023 17:44:19
+20/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,21/07/2023 17:44:21
+21/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,24/07/2023 16:16:23
+21/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,24/07/2023 16:16:24
+21/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,24/07/2023 16:16:25
+21/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,24/07/2023 16:16:26
+21/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,24/07/2023 16:16:28
+24/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,25/07/2023 16:46:12
+24/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,25/07/2023 16:46:13
+24/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,25/07/2023 16:46:14
+24/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,25/07/2023 16:46:14
+24/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,25/07/2023 16:46:17
+25/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,26/07/2023 17:28:31
+25/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,26/07/2023 17:28:31
+25/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,26/07/2023 17:28:32
+25/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,26/07/2023 17:28:33
+25/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,26/07/2023 17:28:34
+26/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,27/07/2023 17:05:09
+26/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,27/07/2023 17:05:10
+26/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,27/07/2023 17:05:10
+26/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,27/07/2023 17:05:11
+26/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,27/07/2023 17:05:13
+27/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,28/07/2023 16:56:21
+27/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,28/07/2023 16:56:22
+27/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,28/07/2023 16:56:23
+27/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,28/07/2023 16:56:23
+27/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,28/07/2023 16:56:25
+28/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,31/07/2023 17:52:23
+28/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,31/07/2023 17:52:24
+28/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,31/07/2023 17:52:25
+28/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,31/07/2023 17:52:25
+28/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,31/07/2023 17:52:27
+31/07/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,01/08/2023 17:14:42
+31/07/2023,2,Details of Post Offices not performded EOD in DPMS,success,01/08/2023 17:14:42
+31/07/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,01/08/2023 17:14:43
+31/07/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,01/08/2023 17:14:44
+31/07/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,01/08/2023 17:14:45
+01/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,02/08/2023 16:08:02
+01/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,02/08/2023 16:08:02
+01/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,02/08/2023 16:08:03
+01/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,02/08/2023 16:08:04
+01/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,02/08/2023 16:08:06
+02/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,03/08/2023 17:01:58
+02/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,03/08/2023 17:01:58
+02/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,03/08/2023 17:01:59
+02/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,03/08/2023 17:02:00
+02/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,03/08/2023 17:02:02
+03/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,04/08/2023 17:05:01
+03/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,04/08/2023 17:05:01
+03/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,04/08/2023 17:05:02
+03/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,04/08/2023 17:05:03
+03/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,04/08/2023 17:05:05
+04/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,07/08/2023 17:10:23
+04/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,07/08/2023 17:10:24
+04/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,07/08/2023 17:10:25
+04/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,07/08/2023 17:10:27
+07/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,08/08/2023 17:13:10
+07/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,08/08/2023 17:13:11
+07/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,08/08/2023 17:13:11
+07/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,08/08/2023 17:13:12
+07/08/2023,23,Details of Post offices where both NSP 1 & 2 are down but ticket is not raised,success,08/08/2023 17:13:12
+07/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,08/08/2023 17:13:14
+08/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,09/08/2023 17:25:38
+08/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,09/08/2023 17:25:39
+08/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,09/08/2023 17:25:42
+08/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,09/08/2023 17:25:43
+08/08/2023,23,Details of Post offices where both NSP 1 & 2 are down but ticket is not raised,success,09/08/2023 17:25:43
+08/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,09/08/2023 17:25:45
+09/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,10/08/2023 17:01:05
+09/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,10/08/2023 17:01:05
+09/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,10/08/2023 17:01:06
+09/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,10/08/2023 17:01:06
+09/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,10/08/2023 17:01:08
+10/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,16/08/2023 17:25:16
+10/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,16/08/2023 17:25:16
+10/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,16/08/2023 17:25:17
+10/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,16/08/2023 17:25:18
+10/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,16/08/2023 17:25:20
+11/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,16/08/2023 17:25:49
+11/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,16/08/2023 17:25:49
+11/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,16/08/2023 17:25:50
+11/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,16/08/2023 17:25:51
+11/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,16/08/2023 17:25:53
+14/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,16/08/2023 17:26:06
+14/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,16/08/2023 17:26:07
+14/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,16/08/2023 17:26:08
+14/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,16/08/2023 17:26:08
+14/08/2023,23,Details of Post offices where both NSP 1 & 2 are down but ticket is not raised,success,16/08/2023 17:26:09
+14/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,16/08/2023 17:26:10
+16/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,21/08/2023 17:25:35
+16/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,21/08/2023 17:25:36
+16/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,21/08/2023 17:25:37
+16/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,21/08/2023 17:25:38
+16/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,21/08/2023 17:25:40
+17/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,21/08/2023 17:25:58
+17/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,21/08/2023 17:25:58
+17/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,21/08/2023 17:26:00
+17/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,21/08/2023 17:26:00
+17/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,21/08/2023 17:26:03
+18/08/2023,1,Details of Post Offices having daily synch failure for more than 48 hours,success,21/08/2023 17:26:24
+18/08/2023,2,Details of Post Offices not performded EOD in DPMS,success,21/08/2023 17:26:24
+18/08/2023,3,Details of Bos for which  BO slips are not generated in CSI,success,21/08/2023 17:26:26
+18/08/2023,4,Details of Post offices where both NSP 1 & 2 are down,success,21/08/2023 17:26:26
+18/08/2023,5,Details of BOs which have not logged in Darpan during Office Hours(9AM - 2PM),success,21/08/2023 17:26:30
+05/08/2024,1,Details of Post Offices having daily synch failure for more than 48 hours,success,06/08/2024 16:14:32
+05/08/2024,2,Details of Post Offices not performded EOD in DPMS,success,06/08/2024 16:14:33
+05/08/2024,3,Details of Bos for which  BO slips are not generated in CSI,success,06/08/2024 16:14:37
+05/08/2024,dp,Details of BOs which have not logged in Darpan,success,06/08/2024 16:15:36
